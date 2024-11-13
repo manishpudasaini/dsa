@@ -1,3 +1,5 @@
+package searchelement;
+
 /**
  * Search an element in an array
  */
